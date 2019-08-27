@@ -5,7 +5,7 @@ Teste de Front-End Vizir
 
 Before run the project, make sure you have node installed and npm. After that, download the project. I prefer using yarn to run the project, but it's possible to use npm.
 
-After the download, in the terminal open the folder of the project and run ``` yarn create react-app my-react-app```. After that, run ```yarn start```. After this the project will open in ```http://localhost:3000```.
+After the download, in the terminal open the folder of the project and run ``` yarn add create-react-app```. After that, run ```yarn start```. After this the project will open in ```http://localhost:3000```.
 
 ### Tasks Fullfilled
 - [x] Object Orientation;
@@ -17,6 +17,7 @@ After the download, in the terminal open the folder of the project and run ``` y
 #### Extras
 
 - [x] Grafics Interface;
+- [x] All the functionalities are working;
 - [x] Advanced usage of the code technology.
 
 ### Enjoy the project and thank you very much for the opportunity!
